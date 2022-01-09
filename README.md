@@ -1,3 +1,3 @@
 # RobotFramework
 
-First test case with Robot Framework on Pycharm IDE
+Beginer test cases with Robot Framework on Pycharm IDE. 
