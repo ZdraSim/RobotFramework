@@ -1,0 +1,7 @@
+1641742266643	geckodriver	INFO	Listening on 127.0.0.1:64768
+1641742269806	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64769" "-no-remote" "-profile" "C:\\Users\\Pc\\AppData\\Local\\Temp\\rust_mozprofileYPkhf7"
+1641742270480	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Pc\\AppData\\Local\\Temp\\rust_mozprofileYPkhf7\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
